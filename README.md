@@ -9,4 +9,3 @@ The full data set that this is all pulled from is [https://github.com/lafefspiet
 
 # [ecal.ipynb](ecal.ipynb)
 # [nist-mm4250-ideals.zip](nist-mm4250-ideals.zip)
-# [Local .pdf copy of calibration paper](Cryogenic_RF_MEMS_Switch_With_Electronic_Calibration_Capability.pdf)
